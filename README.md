@@ -1,0 +1,2 @@
+# ghosting
+Squash Ghosting App
